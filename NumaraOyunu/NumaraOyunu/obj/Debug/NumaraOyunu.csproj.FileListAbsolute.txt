@@ -1,0 +1,8 @@
+C:\Users\ahmet\source\repos\NumaraOyunu\NumaraOyunu\bin\Debug\NumaraOyunu.exe.config
+C:\Users\ahmet\source\repos\NumaraOyunu\NumaraOyunu\bin\Debug\NumaraOyunu.exe
+C:\Users\ahmet\source\repos\NumaraOyunu\NumaraOyunu\bin\Debug\NumaraOyunu.pdb
+C:\Users\ahmet\source\repos\NumaraOyunu\NumaraOyunu\obj\Debug\NumaraOyunu.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\NumaraOyunu\NumaraOyunu\obj\Debug\NumaraOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet\source\repos\NumaraOyunu\NumaraOyunu\obj\Debug\NumaraOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\NumaraOyunu\NumaraOyunu\obj\Debug\NumaraOyunu.exe
+C:\Users\ahmet\source\repos\NumaraOyunu\NumaraOyunu\obj\Debug\NumaraOyunu.pdb
